@@ -10,9 +10,8 @@ export default function Footer() {
             <p className="mb-0">Mohamed Semaoune | medex0731@gmail.com</p>
           </div>
           <div className="col-md-6 text-center text-md-end">
-            <a href="#" className="text-white me-3"><FaGithub size={20} /></a>
-            <a href="#" className="text-white me-3"><FaTwitter size={20} /></a>
-            <a href="#" className="text-white"><FaDiscord size={20} /></a>
+            <a href="#" className="text-white me-3"><FaGithub size={20} href="https://github.com/dwmedlol" /></a>
+            <a href="#" className="text-white"><FaDiscord size={20}  href="https://discordapp.com/users/m1exd"/></a>
           </div>
         </div>
       </div>
