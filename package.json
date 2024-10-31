@@ -9,6 +9,14 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "public/font/ProximaNova-Reg-webfont.woff2"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ],
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
