@@ -40,7 +40,7 @@ export default function App() {
   };
 
   return (
-    <div className="bg-dark text-white" id='main'>
+    <div   className="bg-dark text-white" id='main'>
       <style jsx>{GlobalStyles}</style>
       <Header scrollToSection={scrollToSection} />
       <div className="container py-5">
